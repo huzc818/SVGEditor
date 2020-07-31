@@ -4,5 +4,5 @@ An SVG editing framework
 
 
 
-##License
+## License
 GNU General Public Licence 
